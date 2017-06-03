@@ -1,4 +1,5 @@
-package com.example.katsuyuki.myapplication;
+package com.example.katsuyuki.
+        ;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
